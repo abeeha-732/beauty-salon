@@ -1,0 +1,6 @@
+{
+  "name": "GULL • Luxury Beauty & Hair Salon",
+  "description": "Gull Luxury Beauty & Hair Salon with bespoke hair styling, skin treatments, nail artistry, and instant appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
